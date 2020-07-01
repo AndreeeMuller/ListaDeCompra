@@ -1,0 +1,19 @@
+// app global css in SCSS form
+
+.header-image {
+    height: 100%;
+    z-index: -1;
+    opacity: 0.2;
+    filter: grayscale(100%);
+}
+
+.check {
+    .q-item__label {
+        text-decoration: line-through;
+        color: #bbb;
+    }
+}
+
+.no-taks {
+    opacity: 0.5;
+}
