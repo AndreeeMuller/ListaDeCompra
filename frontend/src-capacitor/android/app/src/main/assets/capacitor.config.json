@@ -1,7 +1,0 @@
-{
-  "appId": "org.capacitor.quasar.app",
-  "appName": "Lista de Tarefas",
-  "bundledWebRuntime": false,
-  "npmClient": "npm",
-  "webDir": "www"
-}
